@@ -1,6 +1,6 @@
 
 # SITE CONFIGURATION
-url: "https://Scran.netlify.app"   #change this to yours
+url: "https://studentscran.netlify.app"   #change this to yours
 repository: hbanks01/Scran
 title: Student Scran
 recipemenu: false # you can change to true and a menu of all recipes will appear
