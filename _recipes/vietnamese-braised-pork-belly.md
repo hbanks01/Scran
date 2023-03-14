@@ -4,6 +4,8 @@ date: 2023-03-14T14:56:23.178Z
 order: 2
 layout: recipe
 ---
+![Pork belly photo](../uploads/dall·e-2023-03-14-14.31.19-cookbook-image-of-perfect-juicy-vietnamese-braised-pork-belly-.png "Beautifully braised Vietnamese-style pork belly")
+
 **Ingredients**:
 
 * 2 lbs pork belly, skin-on, cut into 1 1/2-inch cubes
