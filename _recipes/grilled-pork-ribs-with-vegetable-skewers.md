@@ -45,4 +45,4 @@ For the vegetable skewers:
 
 Serves: 3-4 people
 
-Prep/ cooking time: 2-3 hours
+Preperation time: 2-3 hours
